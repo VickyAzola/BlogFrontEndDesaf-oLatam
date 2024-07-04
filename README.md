@@ -47,7 +47,7 @@ BlogFrontEndDesafioLatam/
 
 - **HTML5**: Para la estructura del sitio web.
 - **CSS**: Para el diseño y la presentación del sitio web.
-- **Google Fonts**: Biblioteca de fuentes de texto. Se utilizaron las fuentes:
+- **Google Fonts**: Biblioteca de fuentes de texto. Se utilizo:
   - [Poppins](https://fonts.google.com/specimen/Poppins?query=Poppins)
 
 ## Uso
