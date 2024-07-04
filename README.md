@@ -13,6 +13,11 @@
 
 Blog FrontEnd es una página web diseñada para compartir novedades y artículos populares relacionados con el desarrollo front-end. La página utiliza la metodología BEM para la organización de sus clases CSS y hace uso de etiquetas semánticas para una mejor estructura del contenido.
 
+[Revisa el resultado final aqui](https://vickyazola.github.io/BlogFrontEndDesafioLatam/)
+
+![Wireframe - 4](https://github.com/VickyAzola/BlogFrontEndDesafioLatam/assets/116470398/9a54eef1-6e42-48e5-9574-64a390e6ffb0)
+
+
 ## Estructura del Proyecto
 
 ```plaintext
