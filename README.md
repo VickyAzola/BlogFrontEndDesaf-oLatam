@@ -56,7 +56,7 @@ BlogFrontEndDesafioLatam/
 - **Artículos Populares**: Sección dedicada a los artículos más populares del blog.
 - **Categorías**: Diferentes categorías de temas como HTML, CSS, JavaScript, React, Vue, y Bootstrap.
 
-  ## Instalación
+## Instalación
 
 1. **Clonar el repositorio**:
     ```bash
