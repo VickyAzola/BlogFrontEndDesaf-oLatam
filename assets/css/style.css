@@ -18,8 +18,7 @@
   box-sizing: border-box;
 }
 
-.header__logo,
-.footer__logo {
+.logo {
   display: flex;
   align-items: center;
   gap: 1rem;
@@ -37,7 +36,7 @@
   font-size: 1.5rem;
 }
 
-.header__novedades {
+.novedades {
   padding: 0.5rem 6rem 1.5rem;
   display: grid;
   grid-template-rows: auto auto;
@@ -53,7 +52,7 @@
   margin: 1rem 0;
 }
 
-.novedades__bigCard {
+.bigCard {
   grid-column: 1/2;
 }
 
@@ -95,13 +94,13 @@
   font-weight: 500;
 }
 
-.novedades__smallCard {
+.smallCard {
   grid-column: 2/3;
   column-span: 4;
   display: grid;
 }
 
-.smallCard {
+.smallCard__item {
   display: flex;
   align-items: start;
   column-gap: 1.5rem;
@@ -150,7 +149,7 @@
   border-bottom: 1px solid #CCCCCC;
 }
 
-.main__populares {
+.populares {
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: 2rem;
@@ -192,7 +191,7 @@
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.253);
 }
 
-.main__categorias {
+.categorias {
   display: flex;
   flex-direction: column;
   row-gap: 1.5rem;
